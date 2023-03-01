@@ -34,7 +34,7 @@ Prior to starting PhD, I was a junior research assistant at Vision and Graphics 
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
     IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2023</li>
     
-    <li><b><i>Are all Frames Equal? Active Sparse Learning for Video Action Detection</i></b><br>
+    <li style="margin-top:1em"><b><i>Are all Frames Equal? Active Sparse Learning for Video Action Detection</i></b><br>
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
     Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2022<br>
     <a href="https://openreview.net/pdf?id=907ZdmPmmH_">Paper</a> | <a href="https://github.com/aayushjr/ASL-video">Github</a> | <a href="https://www.crcv.ucf.edu/research/projects/active-sparse-labeling-for-video-action-detection/">Resources</a> | <a href="https://sites.google.com/view/activesparselabeling/home">Project</a></li>
