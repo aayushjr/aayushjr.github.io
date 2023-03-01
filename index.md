@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="justify">
-Currently a PhD student at the <a href="https://www.crcv.ucf.edu/">Center for Research in Computer Vision (CRCV)</a> lab, University of Central Florida (UCF). I work with <a href="https://www.crcv.ucf.edu/person/rawat/">Dr. Yogesh Singh Rawat</a> with research focus in computer vision using machine learning. My research interests include activity segmentation and tracking in videos, low cost methods for video understanding, driving assistance systems, and robotic manipulation using vision. I prefer working on applied research to bring my concepts to practical use.
+Currently a PhD candidate at the <a href="https://www.crcv.ucf.edu/">Center for Research in Computer Vision (CRCV)</a> lab, University of Central Florida (UCF). I work with <a href="https://www.crcv.ucf.edu/person/rawat/">Dr. Yogesh Singh Rawat</a> with research focus in computer vision using machine learning. My research interests include activity segmentation and tracking in videos, low cost methods for video understanding, driving assistance systems, and robotic manipulation using vision. I prefer working on applied research to bring my concepts to practical use.
 <br>
 Prior to starting PhD, I was a junior research assistant at Vision and Graphics Lab at Asian Institute of Technology, Thailand. My primary work was on visual SLAM, tracking, and recognition of vehicles.
 </div>
@@ -14,7 +14,8 @@ Prior to starting PhD, I was a junior research assistant at Vision and Graphics 
 
 <div align="justify">
 <ul>
-<li>We have 1 accepted paper at NeurIPS 2022!</li>
+<li>We have 1 accepted paper at CVPR 2023!</li>
+<li>We have 1 accepted paper at NeurIPS 2022! Check project details <a href="https://sites.google.com/view/activesparselabeling/home">here</a>.</li>
 <li>Our patent for real-time spatio-temporal activity detection from untrimmed video (US Patent 11468676) has been granted!</li>
 <li>We are organizing <a href="https://rosecvpr22.github.io/">Robustness in Sequential Data (ROSE) workshop</a> in CVPR 2022. </li>
 <li>We are hosting the <a href="https://tinyactions-cvpr22.github.io/">Tiny Actions Challenge</a> as part of ActivityNet workshop at CVPR 2022.</li>
@@ -27,6 +28,10 @@ Prior to starting PhD, I was a junior research assistant at Vision and Graphics 
 
 <div align="justify">
 <ul>
+    <li><b><i>Hybrid Active Learning via Deep Clustering for Video Action Detection</i></b><br>
+    <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
+    IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2023</li>
+    
     <li><b><i>Are all Frames Equal? Active Sparse Learning for Video Action Detection</i></b><br>
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
     Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2022</li>
