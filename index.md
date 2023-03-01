@@ -36,8 +36,8 @@ Prior to starting PhD, I was a junior research assistant at Vision and Graphics 
     
     <li><b><i>Are all Frames Equal? Active Sparse Learning for Video Action Detection</i></b><br>
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
-    Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2022</li>
-    <a href="https://openreview.net/pdf?id=907ZdmPmmH_">Paper</a> | <a href="https://github.com/aayushjr/ASL-video">Github</a> | <a href="https://www.crcv.ucf.edu/research/projects/active-sparse-labeling-for-video-action-detection/">Resources</a> | <a href="https://sites.google.com/view/activesparselabeling/home">Project</a>
+    Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2022<br>
+    <a href="https://openreview.net/pdf?id=907ZdmPmmH_">Paper</a> | <a href="https://github.com/aayushjr/ASL-video">Github</a> | <a href="https://www.crcv.ucf.edu/research/projects/active-sparse-labeling-for-video-action-detection/">Resources</a> | <a href="https://sites.google.com/view/activesparselabeling/home">Project</a></li>
     
     <li style="margin-top:1em"><b><i>We don’t Need Thousand Proposals: Single Shot Actor-Action Detection in Videos</i></b><br>
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
