@@ -14,13 +14,15 @@ Prior to starting PhD, I was a junior research assistant at Vision and Graphics 
 
 <div align="justify">
 <ul>
-<li>We have 1 accepted paper at CVPR 2023!</li>
-<li>We have 1 accepted paper at NeurIPS 2022! Check project details <a href="https://sites.google.com/view/activesparselabeling/home">here</a>.</li>
+<li>We have 1 accepted paper at <b>CVPR 2023</b>!</li>
+<li>We have 1 accepted paper at <b>NeurIPS 2022!</b> Check project details <a href="https://sites.google.com/view/activesparselabeling/home">here</a>.</li>
 <li>Our patent for real-time spatio-temporal activity detection from untrimmed video (US Patent 11468676) has been granted!</li>
 <li>We are organizing <a href="https://rosecvpr22.github.io/">Robustness in Sequential Data (ROSE) workshop</a> in CVPR 2022. </li>
 <li>We are hosting the <a href="https://tinyactions-cvpr22.github.io/">Tiny Actions Challenge</a> as part of ActivityNet workshop at CVPR 2022.</li>
-<li>We have 1 accepted paper at BMVC 2021!</li>
-<li>We have 1 accepted paper at WACV 2021!</li> 
+<li>I will be doing an internship at <i>Qualcomm</i> this summer (2022)</li>
+<li>We have 1 accepted paper at <b>BMVC 2021</b>!</li>
+<li>We have 1 accepted paper at <b>WACV 2021</b>!</li> 
+<li>I will be doing an internship at <i>SRI International</i> this summer (2020)</li>
 </ul>
 </div>
 
@@ -35,6 +37,7 @@ Prior to starting PhD, I was a junior research assistant at Vision and Graphics 
     <li><b><i>Are all Frames Equal? Active Sparse Learning for Video Action Detection</i></b><br>
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
     Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2022</li>
+    <a href="https://openreview.net/pdf?id=907ZdmPmmH_">Paper</a> | <a href="https://github.com/aayushjr/ASL-video">Github</a> | <a href="https://www.crcv.ucf.edu/research/projects/active-sparse-labeling-for-video-action-detection/">Resources</a> | <a href="https://sites.google.com/view/activesparselabeling/home">Project</a>
     
     <li style="margin-top:1em"><b><i>We don’t Need Thousand Proposals: Single Shot Actor-Action Detection in Videos</i></b><br>
     <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
