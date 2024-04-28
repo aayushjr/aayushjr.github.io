@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div align="justify">
-Currently working at Qualcomm (San Diego) as a senior engineer for camera system team. I completed my PhD in computer science with focus on computer vision and deep learning from the <a href="https://www.crcv.ucf.edu/">Center for Research in Computer Vision (CRCV)</a> lab, University of Central Florida (UCF), where I worked with <a href="https://www.crcv.ucf.edu/person/rawat/">Dr. Yogesh Singh Rawat</a>. My research interests include temporally consistent video segmentation, low cost annotation method, real-time video understanding, driving assistance systems, and robotic manipulation using vision, with preference on applied research to bring my concepts to practical use.
+Currently working at Qualcomm (San Diego) as a senior engineer for camera system team. I completed my PhD in computer science with focus on computer vision and deep learning from the <a href="https://www.crcv.ucf.edu/">Center for Research in Computer Vision (CRCV)</a> lab, University of Central Florida (UCF), where I worked with <a href="https://www.crcv.ucf.edu/person/rawat/">Dr. Yogesh Singh Rawat</a>. My research interests include fundamentals of efficient deep learning applications, including large scale training, image/video generation and segmentation, and sparse annotation training for large datasets. I have previously worked on temporally consistent video segmentation, low cost annotation method, real-time video understanding, driving assistance systems, and robotic manipulation using vision, bringing concepts to practical use.
 <br>
-Prior to starting PhD, I was a junior research assistant at Vision and Graphics Lab at Asian Institute of Technology, Thailand. My primary work was on visual SLAM, tracking, and recognition of vehicles.
+Prior to starting PhD, I was working at Vision and Graphics Lab at Asian Institute of Technology, Thailand. My primary work was on visual SLAM, tracking, and recognition of vehicles.
 </div>
 
 <br>
